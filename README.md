@@ -22,7 +22,13 @@ Automatizar o processo de criação de relatórios para gestores, permitindo:
   ---
 
 ## 📷 Exemplos Visuais
--> Foram alteradas/mascaradas os valores referentes aos apontamentos do respectivel HU.
+> 🔒 **Atenção:** os valores exibidos neste exemplo foram alterados/ocultados para proteger dados do HU.
+
 ![Exemplo1](https://github.com/brunomatsuda/Relatorio-Gestores/blob/main/images/CHC-UFPR_page-0001.jpg?raw=true)
 ![Exemplo2](https://github.com/brunomatsuda/Relatorio-Gestores/blob/main/images/CHC-UFPR_page-0002.jpg?raw=true)
+
+---
+
+## 🛡️ Observações
+- Os dados utilizados foram anonimizados para proteção de informações sensíveis.
 
