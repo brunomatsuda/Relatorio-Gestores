@@ -19,6 +19,12 @@ Automatizar o processo de criação de relatórios para gestores, permitindo:
 - **Power BI Desktop**
 - **Excel / CSV** (dados base)
 
+-- 
+
+## 🧠 Como Funciona?
+Os dados foram obtidos por meio da _API_ do e-CGU, em seguida tratados e filtrados em Python, que por sua vez gera o arquivo Excel disponível na [pasta `data`](https://github.com/brunomatsuda/Relatorio-Gestores/tree/main/data).
+
+
   ---
 
 ## 📷 Exemplos Visuais
